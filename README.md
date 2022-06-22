@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emmilystela
-- 🌱 I’m currently learning .NET, C# and JS
+- 🌱 I’m currently learning automation testing in cypress and laravel 
 - 📫 How to reach me emmilyestelx@gmail.com 
 
 <!---
