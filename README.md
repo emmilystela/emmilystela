@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emmilystela
-- 🌱 I’m currently learning automation testing in cypress and laravel 
+- 🌱 I’m currently learning automation testing in cypress.io
 - 📫 How to reach me emmilyestelx@gmail.com 
 
 <!---
