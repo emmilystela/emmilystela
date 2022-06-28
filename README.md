@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmilystela
 - 🌱 I’m currently learning automation testing in cypress.io
-- 📫 How to reach me emmilyestelx@gmail.com 
+- 📫 emmilyestelx@gmail.com 
 
 <!---
 emmilystela/emmilystela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
